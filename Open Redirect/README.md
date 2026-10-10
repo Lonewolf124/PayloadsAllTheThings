@@ -91,6 +91,10 @@ window.location = redirectTo;
 
 ## Filter Bypass
 
+
+* If / is only allowed 
+and victim.com/attacker.com is not working you can use // as bypass like victim.com//attacker.com
+
 * Using a whitelisted domain or keyword
 
     ```powershell
